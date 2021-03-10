@@ -6,7 +6,7 @@ My folder structure looks like the following
 
 First, I run the generate_point_cloud.ipynb file which writes all of the point clouds file in the directory 'point_clouds'.
 
-Then, I run the pc_to_wc.ipynb file, which writes all of the transformed point clouds in the directory 'pc_to_wc'.
+Then, I run the pc_to_wc.ipynb file, which transform the point clouds and saves those in the directory 'pc_to_wc'.
 
 visualize_point_cloud.ipynb file reads transformed point clouds from pc_to_wc folder and visualizes.
 
